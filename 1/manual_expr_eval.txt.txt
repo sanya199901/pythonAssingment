@@ -1,0 +1,29 @@
+a)a=4
+  b=2
+  x=5
+  y=4
+ result=5*b*b*x-3*a*y*y-8*x+10*a*y
+ 1. apply multiplication- 5*2*2=20
+
+                           20*x-3*a*y*y-8*x+10*a*y
+
+ 2.again apply multiplication- 20*5=100
+                           100-3*a*y*y-8*x+10*a*y
+ 3.again apply multiplication- 3*4=12
+                           100-12*y*y-8*x+10*a*y     
+ 4. again apply multiplication- 12*4*4=192
+                           100-192-8*x*10*a*y
+ 5. again apply multiplication- 8*5*10=40
+                           100-192-40*a*y
+ 6. again apply multiplication- 40*4*4=640
+                           100-192-640               
+
+b)a=2
+  y=3
+  c=7
+calc = 4*a*y/c-a*y/c
+
+ 1. apply division- 3/7=0.42
+                           4*a*0.42-a*0.42
+ 2. apply multiplication- 4*2*0.42-2*0.42=3.36-0.84
+ 3. apply subtraction- 2.52

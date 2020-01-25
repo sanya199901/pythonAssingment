@@ -1,0 +1,8 @@
+1. in this program we are checking whther he 2 values are equal or not. it is checked by their ASCII value.
+   ASCII value of 'z' is 122
+   ASCII value of 'a' is 97
+  which are not equal and 'z' is not less then 'a' Therefore output will be "z is not greater then a"
+
+2. Here in the program lengtbof string s1 is greater then string s2. Therefore if condition will be run. and the output will be
+   Boston
+   New York

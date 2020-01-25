@@ -1,0 +1,7 @@
+Calculate average
+r=s=t=5
+avg=r+s+t/3
+1. divide=5/3=1.666
+               avg=r+s+1.666
+2. addision 5+5+1.666=11.666
+               avg=11.666
